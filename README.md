@@ -1,2 +1,2 @@
 # gonfig-java-client
-Java client for GonfigServer
+Java client for GonfigServer (interfaces only)
